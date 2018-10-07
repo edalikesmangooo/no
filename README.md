@@ -1,1 +1,1 @@
-# exercise for 803
+# exercises for 803
